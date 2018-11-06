@@ -1,5 +1,5 @@
 //Please view on CoderByte.com for full description and instructions. This is only a solution, not functioning stand-alone code.
-//https://www.coderbyte.com/results/tmiller6573:Pentagonal%20Number:JavaScript
+//https://www.coderbyte.com/results/tmiller6573:Kaprekars%20Constant:JavaScript
 //Timothy Miller, 2018
 
 function PentagonalNumber(num) { 
